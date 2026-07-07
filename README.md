@@ -1,5 +1,7 @@
 # SnakeName（贪吃蛇）
 
+![SnakeName 游戏预览](preview.svg)
+
 一个纯前端的贪吃蛇小游戏，单文件 HTML，无需任何依赖，双击 `snake.html` 即可在浏览器中游玩。
 
 ## 玩法
